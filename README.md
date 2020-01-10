@@ -1,3 +1,11 @@
+Noms des étudiants :
+
+* Fieschi Errol
+* Remy Thomas
+* Lemaire Thomas
+
+Date du jour : 10/01/2020
+
 # TP final de Git
 
 ## Explication du TP
